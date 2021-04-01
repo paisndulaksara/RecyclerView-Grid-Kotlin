@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
         dataList.add(DataModel("Title","Desc",R.drawable.online))
         dataList.add(DataModel("Title","Desc",R.drawable.online))
         dataList.add(DataModel("Title","Desc",R.drawable.online))
+        dataList.add(DataModel("Title","Desc",R.drawable.online))
 
         photoAdapter.setDataList(dataList)
 
